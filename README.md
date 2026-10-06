@@ -24,7 +24,7 @@ The Overview page summarizes the main KPIs and provides comparisons across payme
 
 The Time Analysis page focuses on demand patterns throughout the day and across the week. It includes pickup-time trends, day-wise booking trends, and an hour-by-day heatmap.
 
-![Uber Trip Analysis - Time Analysis](Screenshot/Time_Analysis_Dashboards.png)
+![Uber Trip Analysis - Time Analysis](Screenshot/Time_Analysis_Dashboard.png)
 
 ### 3. Details View
 
