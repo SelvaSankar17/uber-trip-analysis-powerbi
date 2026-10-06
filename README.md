@@ -18,19 +18,19 @@ The dashboard uses interactive filters and dynamic measures to make the analysis
 
 The Overview page summarizes the main KPIs and provides comparisons across payment types, trip types, vehicle types, days, and locations.
 
-![Uber Trip Analysis - Overview Analysis](Screenshot/Overview Analysis Dashboard.png)
+![Uber Trip Analysis - Overview Analysis](Screenshot/Overview_Analysis_Dashboard.png)
 
 ### 2. Time Analysis
 
 The Time Analysis page focuses on demand patterns throughout the day and across the week. It includes pickup-time trends, day-wise booking trends, and an hour-by-day heatmap.
 
-![Uber Trip Analysis - Time Analysis](Screenshot/Time Analysis Dashboards.png)
+![Uber Trip Analysis - Time Analysis](Screenshot/Time_Analysis_Dashboards.png)
 
 ### 3. Details View
 
 The Details page provides granular trip-level information including Trip ID, Pickup Date, Pickup Hour, Vehicle, Payment Type, Number of Passengers, Trip Distance, Booking Value, Pickup Location, and Total Bookings.
 
-![Uber Trip Analysis - Details View](Screenshot/Detail View Dashoard.png)
+![Uber Trip Analysis - Details View](Screenshot/Detail_View_Dashboard.png)
 
 ## Key KPIs
 
