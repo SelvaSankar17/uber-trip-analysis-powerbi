@@ -117,17 +117,24 @@ These insights can support analysis of **ride demand, vehicle allocation, operat
 ## Project Structure
 
 ```text
+
 Uber_Trip_Analysis/
 │
 ├── README.md
 │
-└── screenshots/
-    ├── 01-overview-analysis.png
-    ├── 02-time-analysis.png
-    └── 03-details-view.png
-```
+├── dataset/
+│   ├── location_table.csv
+│   └── uber_trip_details.csv
+│
+├── PowerBI/
+│   └── Uber_Trip_Analysis.pbix
+│
+└── Screenshot/
+    ├── Overview_Analysis_Dashboard.png
+    ├── Time_Analysis_Dashboard.png
+    └── Detail_View_Dashboard.png
 
-> **GitHub screenshot setup:** Keep the `README.md` file in the project root and the three dashboard screenshots inside the `screenshots` folder. The image paths in this README are relative paths, so GitHub will automatically render the screenshots in the README when this folder structure is uploaded.
+```
 
 ## Project Objective
 
